@@ -23,7 +23,7 @@ Watch the video 👇
 
 ## 🤖 Prerequisites
 
-- [Ollama](https://ollama.dev/download)
+- [Ollama](https://ollama.com/download)
 
 ## 🔨 Setting up locally
 
